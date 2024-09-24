@@ -1,0 +1,14 @@
+C:\prj\Azubi\APE\compCoding\Problem677\bin\Debug\net8.0\Problem677.exe
+C:\prj\Azubi\APE\compCoding\Problem677\bin\Debug\net8.0\Problem677.deps.json
+C:\prj\Azubi\APE\compCoding\Problem677\bin\Debug\net8.0\Problem677.runtimeconfig.json
+C:\prj\Azubi\APE\compCoding\Problem677\bin\Debug\net8.0\Problem677.dll
+C:\prj\Azubi\APE\compCoding\Problem677\bin\Debug\net8.0\Problem677.pdb
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.AssemblyInfoInputs.cache
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.AssemblyInfo.cs
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.csproj.CoreCompileInputs.cache
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.dll
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\refint\Problem677.dll
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.pdb
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\Problem677.genruntimeconfig.cache
+C:\prj\Azubi\APE\compCoding\Problem677\obj\Debug\net8.0\ref\Problem677.dll
