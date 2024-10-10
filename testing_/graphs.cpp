@@ -5,7 +5,7 @@ const int INF = INT_MAX;
 
 int main() {
     vector<tuple<int, int, int>> edges; // Change char to int for vertex representation
-    int n = 5; // Number of vertices
+    int n = 7; // Number of vertices
     int x = 1; // Starting vertex (1-indexed)
     vector<int> distance(n + 1, INF); // Distance array
 
@@ -17,8 +17,7 @@ int main() {
     edges.push_back({5, 4, 8});
     edges.push_back({5, 2, 7});
     edges.push_back({7, 1, 7});
-        edges.push_back({1
-        , 6, 7});
+    edges.push_back({1, 6, 7});
 
     // Initialize the distance to the starting vertex
     distance[x] = 0;
